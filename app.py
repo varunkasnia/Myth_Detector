@@ -7,6 +7,8 @@ from tensorflow.keras.models import load_model
 from gensim.utils import simple_preprocess
 from nltk.corpus import stopwords
 
+nltk.download('stopwords')
+
 st.title('Myth Detector')
 
 user_input=st.text_input('Entre Text For Checking')
