@@ -6,6 +6,7 @@ from gensim.models import Word2Vec
 from tensorflow.keras.models import load_model
 from gensim.utils import simple_preprocess
 from nltk.corpus import stopwords
+import nltk
 
 nltk.download('stopwords')
 
