@@ -1,8 +1,0 @@
-tensorflow==2.15
-sciket-learn
-pandas
-numpy
-joblib
-nltk
-gensim
-streamlit
