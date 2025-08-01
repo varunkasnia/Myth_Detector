@@ -1,8 +1,7 @@
-tensorflow==2.15
-sciket-learn
+streamlit
 pandas
 numpy
 joblib
-nltk
 gensim
-streamlit
+tensorflow
+scikit-learn
