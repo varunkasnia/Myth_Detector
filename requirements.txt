@@ -3,5 +3,5 @@ pandas
 numpy
 joblib
 gensim
-tensorflow
+tensorflow==2.15.0
 scikit-learn
