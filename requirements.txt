@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+pickle
+gensim
+tensorflow==2.15.0
+scikit-learn
